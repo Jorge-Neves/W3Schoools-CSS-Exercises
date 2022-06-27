@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+}
+
+/*
+
+    ###################
+    #   Exercise : 02 #
+    ###################
+
+    Set the color of all <p> elements to red
+
+
+*/
+
+#para1 {
+    color: red;
+}
