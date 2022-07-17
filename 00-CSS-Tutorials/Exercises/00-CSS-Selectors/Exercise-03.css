@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+}
+
+/*
+
+    ###################
+    #   Exercise : 03 #
+    ###################
+
+Set the color of all elements with the class colortext, to red.
+
+    
+        {
+        
+        red;
+        }
+
+*/
+
+.colortext {
+    color: red;
+   }
